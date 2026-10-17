@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+    <maintainer type="person">
+        <email>ax@slackware.eu</email>
+        <name>ax - Antonio Napolitano</name>
+    </maintainer>
+    <upstream>
+        <remote-id type="github">RivoLink/leaf</remote-id>
+    </upstream>
+</pkgmetadata>
